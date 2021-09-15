@@ -1,1 +1,1 @@
-https://ozhurova.github.io//Merkury/index
+https://ozhurova.github.io/Merkury/index
