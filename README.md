@@ -1,3 +1,1 @@
-# Merkury
-HTML, CSS, responsive layout
-ozhurova.github.io/Merkury/README
+https://ozhurova.github.io//Merkury/index
